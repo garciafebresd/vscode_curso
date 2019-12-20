@@ -16,14 +16,23 @@ control + click derecho  sobre un link -> va al archivo y si no existe lo crea e
 
 control + click -> va a la definicion de la clase, funcion o variable sobre la que se realizo el click
 
-control + shift + u -> to uppercase
-control + shift + l -> to lowercase
+control + alt + u -> to uppercase
+control + alt + l -> to lowercase
 
 control + d -> selecciona la proxima ocurrencia del string seleccionado en el archivo
 
 
+control + shift + k -> borrar linea
+control + shift + l -> select todas las ocurrencias
 
 
+control + z -> deshacer
+control + y -> rehacer
+
+
+control + b -> mostrar/ocultar menu lateral
+
+control + shift + f -> find in folder
 
 
 
