@@ -20,5 +20,5 @@ const c = { a, b };
 
 console.log( a, b, c );
 
-// Resultado final
-// Sólo dejar un bloque comentado
+Resultado final
+Sólo dejar un bloque comentado

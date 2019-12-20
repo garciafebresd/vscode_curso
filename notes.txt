@@ -1,0 +1,30 @@
+Snippets:
+----------
+
+Shortcuts:
+-----------
+
+control + }  -> comentar/descomentar lineas
+
+shift + alt + a -> comentar/descomentar en bloque(seleccion)
+
+alt + arrow up -> mover linea hacia arriba
+
+alt + arrow down -> mover linea hacia abajo
+
+control + click derecho  sobre un link -> va al archivo y si no existe lo crea en la ruta del link
+
+control + click -> va a la definicion de la clase, funcion o variable sobre la que se realizo el click
+
+control + shift + u -> to uppercase
+control + shift + l -> to lowercase
+
+control + d -> selecciona la proxima ocurrencia del string seleccionado en el archivo
+
+
+
+
+
+
+
+
