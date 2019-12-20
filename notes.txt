@@ -30,9 +30,20 @@ control + z -> deshacer
 control + y -> rehacer
 
 
-control + b -> mostrar/ocultar menu lateral
+control + b -> mostrar/ocultar menu lateral(sitebar) 
+control + k z ->  zen mode (modo cero distracciones)
+
 
 control + shift + f -> find in folder
+
+control + ñ -> abrir terminal integrada
+
+
+control + shift + p -> show all commands
+
+control + shift + a -> wrap with abbreviation emmet
+
+
 
 
 
