@@ -44,7 +44,7 @@ control + shift + p -> show all commands
 control + shift + a -> wrap with abbreviation emmet
 
 
-
-
+shift + alt + up -> copy line up
+shift + alt + dow -> copy line down
 
 
