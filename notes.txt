@@ -47,4 +47,37 @@ control + shift + a -> wrap with abbreviation emmet
 shift + alt + up -> copy line up
 shift + alt + dow -> copy line down
 
+control + alt + up/down -> multiple cursor
+
+
+Multiple cursor copy
+-----------------------
+control +alt + up/down (multiple cursor) y luego shift + alt + left/rigth (seleccionar a la derecha o la izquierda)
+
+
+Multiple formato
+----------------------
+
+
+Multiples cursores en distintas posiciones
+-------------------------------------------
+
+alt + doble click en las distintas posiciones de lo que se quiere seleccionar
+
+
+Siguiente ocurrencia
+---------------------
+
+control + d
+
+
+Creacion de arreglo de dias
+----------------------------
+
+
+
+
+
+
+
 
